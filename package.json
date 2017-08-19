@@ -1,0 +1,27 @@
+{
+  "name": "spark",
+  "version": "1.0.0",
+  "description": "Vanilla JS utility library",
+  "main": "js/spark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/terrilldent/spark.git"
+  },
+  "keywords": [
+    "util",
+    "spark",
+    "vanillajs"
+  ],
+  "author": "Terrill Dent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/terrilldent/spark/issues"
+  },
+  "homepage": "https://github.com/terrilldent/spark",
+  "devDependencies": {
+    "eslint": "^4.5.0"
+  }
+}
